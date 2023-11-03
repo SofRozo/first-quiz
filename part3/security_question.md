@@ -17,6 +17,9 @@ Plan for make our system secure
 
 Infrastructure and data security is of utmost importance to our exciting startup revolutionizing solar panel installation through a mobile app and web page. Our commitment to protecting customer information and the secure operation of our services is essential to maintaining the trust of our users. In this security plan we address key protection aspects following the guidelines provided by the OWASP Top 10 for 2021.
 
+(To see the pic, you can clic on the repository Link, also I upload the logo.png and a security-quesion-pdf.pdf that have screenshots of the view in GitHub)
+Repository link: https://github.com/SofRozo/Part-3.git
+
 
 ![logo](https://github.com/SofRozo/Part-3/assets/111070857/04b5cafc-d9fd-4e91-9234-57d80062a339)
 
@@ -40,4 +43,3 @@ OWASP Top 10 - Plan
 Conclusion
 
 In conclusion, our security plan, guided by the OWASP Top 10 for 2021, prioritizes safeguarding customer data and maintaining system integrity. Through measures like input validation, strong authentication, encryption, and access control, we're committed to ensuring a secure environment for our solar panel installation app. Our proactive approach, incident response planning, and continuous vigilance underscore our dedication to security and customer trust.
-
