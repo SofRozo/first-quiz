@@ -38,8 +38,8 @@ PEOPLE = [
 PEOPLE_ANIMALS = [
   (1, 4), # scott, ricky
   (2, 4),  # bessie, ricky
-  (2, 2), # bessie, leyla
-  (2, 7), # bessie, randolph
+  (2, 2), # bessie, leyla #edad mayor, segunda consulta.
+  (2, 7), # bessie, randolph #edad mayor, segunda consulta.
   (3, 3),  # karen, thommy
   (3, 5),  # karen, martin
 ]
